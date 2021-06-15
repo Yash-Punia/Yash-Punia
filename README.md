@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on XR and GameDev stuff
 - 🌱 I’m currently learning Svelte, ThreeJS, WebXR
-- 💬 Ask me about 
 - 📫 You can reach me at my mail: puniayash@gmail.com
 - ⚡ If I'm not coding, I'm most probably playing my Ukulele, Keyboard or watching One Piece
 
