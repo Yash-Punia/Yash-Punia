@@ -21,8 +21,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Punia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://yashpunia.netlify.app
 [youtube]: https://www.youtube.com/channel/UCuGrC3_lxFnPZKOT2O8txNg
 [twitter]: https://twitter.com/zeldariomon
