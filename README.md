@@ -1,7 +1,7 @@
 ### Hi there, I'm Yash Punia 👋
 
-- 🔭 I’m currently working on XR and GameDev stuff
-- 🌱 I’m currently learning Game Programming and Game Engine Programming
+- 🔭 I’m currently working in LILA Games on a mobile extraction shooter - LILA Black
+- 🌱 Enjoy low level programming in C++ on my nth attempt for Voxel Engine
 - 📫 You can reach me at my mail: puniayash@gmail.com
 - ⚡ If I'm not coding, I'm most probably playing my Ukulele, Keyboard or watching One Piece
 
