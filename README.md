@@ -1,6 +1,6 @@
 ### Hi there, I'm Yash Punia 👋
 
-- 🔭 I’m currently working in LILA Games on a mobile extraction shooter - LILA Black
+- 🔭 I’m currently working in [Hypemasters](https://www.hypemasters.com/)
 - 🌱 Enjoy low level programming in C++ on my nth attempt for Voxel Engine
 - 📫 You can reach me at my mail: puniayash@gmail.com
 - ⚡ If I'm not coding, I'm most probably playing my Ukulele, Keyboard or watching One Piece
